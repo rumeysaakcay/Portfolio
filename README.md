@@ -1,8 +1,8 @@
 # Portfolio
-Rumeysa Akcay
-Electronics Engineering Student | Embedded Systems | Computer Vision
-Email: rumeysaakcay25@hotmail.com
-LinkedIn:  linkedin.com/in/rumeysa-akçay-7a5914253
+# Rumeysa Akcay
+# Electronics Engineering Student | Embedded Systems | Computer Vision
+# Email: rumeysaakcay25@hotmail.com
+# LinkedIn:  linkedin.com/in/rumeysa-akçay-7a5914253
 Professional Summary
 3rd Year Electronics Engineering student at Gebze Technical University with hands-on experience in embedded systems, computer vision, and electronic system integration. Experienced in STM32 microcontrollers, C programming, and real-time data processing. Participated in Teknofest 2024 Air Defense Systems competition and contributed to object detection and tracking systems using YOLO and OpenCV. Interested in embedded systems, robotics, signal processing, and intelligent electronic systems.
 Technical Skills
