@@ -17,13 +17,13 @@
 
 ## Technical Skills
 
-Programming: C (Intermediate), Python (Intermediate), Assembly (Basic)
-Embedded Systems: STM32, STM32CubeIDE, ADC, UART, SPI, I2C
-Computer Vision: YOLO, OpenCV, Object Detection, Object Tracking
-Electronics & Simulation: LTspice, Multisim
-Hardware Design: EasyEDA, PCB Design
-Engineering Areas: Embedded Systems, Signal Processing, Control Systems
-Languages: Turkish (Native), English (Upper-Intermediate)
+* Programming: C (Intermediate), Python (Intermediate), Assembly (Basic)
+* Embedded Systems: STM32, STM32CubeIDE, ADC, UART, SPI, I2C
+* Computer Vision: YOLO, OpenCV, Object Detection, Object Tracking
+* Electronics & Simulation: LTspice, Multisim
+* Hardware Design: EasyEDA, PCB Design
+* Engineering Areas: Embedded Systems, Signal Processing, Control Systems
+* Languages: Turkish (Native), English (Upper-Intermediate)
 
 ---
 
