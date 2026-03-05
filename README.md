@@ -5,13 +5,13 @@
 ---
 
 ## Contact Information
-* [cite_start]**Email:** [rumeysaakcay25@hotmail.com](mailto:rumeysaakcay25@hotmail.com) [cite: 2]
-* [cite_start]**LinkedIn:** [linkedin.com/in/rumeysa-akçay-7a5914253](https://www.linkedin.com/in/rumeysa-akçay-7a5914253) [cite: 2]
+* **Email:** [rumeysaakcay25@hotmail.com](mailto:rumeysaakcay25@hotmail.com) 
+* **LinkedIn:** [linkedin.com/in/rumeysa-akçay-7a5914253](https://www.linkedin.com/in/rumeysa-akçay-7a5914253) 
 
 ---
 
 ## Professional Summary
-[cite_start]3rd Year Electronics Engineering student at **Gebze Technical University** with hands-on experience in embedded systems, computer vision, and electronic system integration[cite: 4, 7]. [cite_start]Experienced in **STM32 microcontrollers**, C programming, and real-time data processing[cite: 5, 28]. [cite_start]I am deeply interested in robotics, signal processing, and intelligent electronic systems[cite: 4, 25].
+3rd Year Electronics Engineering student at **Gebze Technical University** with hands-on experience in embedded systems, computer vision, and electronic system integration. Experienced in **STM32 microcontrollers**, C programming, and real-time data processing[cite: 5, 28]. [cite_start]I am deeply interested in robotics, signal processing, and intelligent electronic systems[cite: 4, 25].
 
 ---
 
